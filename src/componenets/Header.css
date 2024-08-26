@@ -1,0 +1,24 @@
+.header-title {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.header-text {
+  background-color: blue;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 100px;
+}
+.header-text:hover {
+  background-image: linear-gradient(
+    43deg,
+    #4158d0 0%,
+    #c850c0 46%,
+    #ffcc70 100%
+  );
+  transition: all ease-in-out 1s;
+}
